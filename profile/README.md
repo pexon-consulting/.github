@@ -5,7 +5,7 @@ Pexon Consulting GmbH spezialisiert sich auf die IT Beratung & Implementierung i
 Mit +150 Mitarbeitern und 6 Standorten in Deutschland beraten wir DAX-Konzerne, Enterprise Kunden und Kunden im Mittelstand bei der Digitalisierung im Schwerpunkt Cloud (AWS, Azure, GCP)
 
 Unser Leistungsportfolio:
-- AWS, Azure & GCP
+- AWS, Azure, GCP & Private Cloud
 - DevOps & Infrastructure as Code
 - Infrastructure services, Kubernetes / OpenShift / Container Lösungen
 - Software Development
@@ -17,7 +17,7 @@ Kundenreferenzen: https://pexon-consulting.de/casestudies/
 
 Kontakt aufnehmen:
 - Website: https://www.pexon-consulting.de
-- Allgemeine Anfragen: hello@pexon-consulting.de
+- Allgemeine Anfragen: info@pexon-consulting.de
 - HR Abteilung: hr@pexon-consulting.de
 - Sales Abteilung: sales@pexon-consulting.de
 - Offene Positionen bei Pexon: https://pexon-consulting.de/karriere/
